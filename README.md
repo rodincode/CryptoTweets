@@ -1,5 +1,5 @@
 # CryptoTweets
-How crypto currencies like BITCOIN, DOGECOIN, EUTHERIUM etc., get affected from Elon Musk's tweets.
+How crypto currencies like DOGECOIN & BITCOIN get affected from Elon Musk and Jack Dorsey's tweets.
 - by JaiShankarNanda
 
 <img src="Tothemoon.jpg" weight="auto" />
